@@ -1,0 +1,11 @@
+.table__heading {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__heading_theme_dark {
+  color: #fff;
+  z-index: 1;
+}
